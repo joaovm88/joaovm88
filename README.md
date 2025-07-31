@@ -1,4 +1,4 @@
-# Olá, eu sou o João Victor Moreira 👋
+# Olá, eu sou João Victor Moreira 👋
 
 ## 👨‍💻 Sobre Mim
 
