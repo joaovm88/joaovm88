@@ -1,6 +1,5 @@
-- ⚖️ Advogado, atualmente expandindo minhas competências para a área de tecnologia.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na **FIAP**.
-- 🌱 Em transição de carreira, focado em aprender, colaborar e crescer junto com a comunidade de tecnologia.
+- 🌱 Em transição de carreira, focado em aprender, colaborar e crescer.
 
 
 ## 📫 Como me encontrar
